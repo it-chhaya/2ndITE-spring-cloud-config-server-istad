@@ -1,6 +1,6 @@
 # Center of Science and Technology Advanced Development (CSTAD)
 
-![CSTAD Logo](https://istad.co/resources/img/logo_md.png)
+<img src="[https://your-image-url.type](https://istad.co/resources/img/logo_md.png)" width="100" height="100">
 
 > Start your IT Career with CSTAD
 
